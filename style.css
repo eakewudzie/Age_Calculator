@@ -149,12 +149,12 @@ input-box input::-webkit-calender-picker-indicator{
     }
     
     .copyright{
-        margin-top: 210px;
+        margin-top: 224px;
     }
 }
     
 
-@media screen and (min-width: 767px){
+@media screen and (max-width: 780px){
     .container{
         width: 100%;
         max-height: 100vh;
